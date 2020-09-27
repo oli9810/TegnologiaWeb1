@@ -2,15 +2,18 @@
 
 html {
   font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  
 }
-
 body {
   width: 800px;
   margin: 0 auto;
+  padding: 5% 0 0 0;
+  background: paleturquoise;
 }
 
 h1, h2 {
   font-family: 'Faster One', cursive;
+  color: rgb(2, 129, 168);
 }
 
 /* header styles */
